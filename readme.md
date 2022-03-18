@@ -1,5 +1,7 @@
 # Retro Joystick Adapter
 
+I show how to make an adapter so these common DB9 style joysticks can be connected to a modern PC via USB.  Once you understand how it works it is easy to see how you could support lots more features than a few buttons and four directions.
+
 Video about this Product: https://youtu.be/v05jIFji7xw
 Support me on Patreon: https://www.patreon.com/RobSmithDev
 Chat on Discord: https://discord.gg/MKZ6HA6ZWE
